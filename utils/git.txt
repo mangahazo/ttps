@@ -1,0 +1,8 @@
+Initialize project
+    git init
+    touch README.md
+    git add -A
+    git commit -m 'Initial commit'
+    git remote add origin https://<PERSONNAL_TOKEN>@github/<USERNAME>/<REPO>.git
+    git branch -M master
+    git push -u origin master
